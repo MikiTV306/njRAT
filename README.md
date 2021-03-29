@@ -1,2 +1,1 @@
-# njRAT
-Wirus rat możecie korzystać
+pobierzcie i dajcie do jednego folderu
